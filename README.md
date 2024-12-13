@@ -52,7 +52,8 @@ This project automates plant watering using soil moisture data. It integrates wi
 ![AquaSense-SmartPlantIrrigationSystem](https://github.com/user-attachments/assets/40b9853b-7af5-49ff-b5f7-f6815fa172c0)
 
 ## BLYNK App Dashboard
-![IMG_2113](https://github.com/user-attachments/assets/a69c9515-bbed-4a60-a330-8114376099f9)
+![IMG_2622](https://github.com/user-attachments/assets/17cd61fb-1cad-4e84-9ea3-021ee6103197)
+
 
 
 ## Usage
